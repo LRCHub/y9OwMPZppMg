@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "FFVII REMAKE: Tifa's Theme - Seventh Heaven",
+  "base_artist": "Nobuo Uematsu",
+  "createdAt": "2026-03-18T06:39:12.157377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FFVII REMAKE: Hollow",
+      "artist": "Yosh",
+      "has_synced": true,
+      "path": "select/01_FFVII_REMAKE__Hollow_Yosh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hollow (FFVII REMAKE)",
+      "artist": "Yosh",
+      "has_synced": true,
+      "path": "select/02_Hollow_(FFVII_REMAKE)_Yosh.lrc"
+    }
+  ]
+}
